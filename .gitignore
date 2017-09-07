@@ -4,3 +4,4 @@
 .meteor/platforms
 .meteor/release
 .meteor/versions
+package.json
